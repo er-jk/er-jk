@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @er-jk
-- 👀 I’m interested in New Tech
-- 🌱 I’m currently learning AI & Robotics
-- 💞️ I’m looking to collaborate on Automation
+- 👋 Hi, I’m JK
+- 👀 I’m interested in New Tech especially in Robots 🤖
+- 🌱 I’m currently learning Artificial intelligence & Robotics
+- 💞️ I’m looking to collaborate on Intelligence Automation
 - 📫 How to reach me jaikumardare2014@gmail.com / https://www.linkedin.com/in/jai-kumar-m-914935132 / https://www.instagram.com/er.jk_/
 
 <!---
